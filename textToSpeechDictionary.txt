@@ -1,0 +1,24 @@
+mkdir:make directory
+sys:system
+rmdir:remove directory
+dirent:directory entry
+ .. :dot dot
+ . :dot
+ rm :r m
+const:constant
+for( :for each
+cout:c out
+endl:end l
+ int :integer
+ a :[[char LTRL]]a[[char NORM]]
+ < :less than
+ > :greater than
+ src:source
+ char :character
+#include:pound include
+cd :[[char LTRL]]cd[[char NORM]] change directory
+chdir:[[char LTRL]]ch[[char NORM]] dur  change directory
+pwd:[[char LTRL]]pwd[[char NORM]] print working directory
+opendir:open directory
+readdir:read directory
+closedir:close directory
