@@ -7,6 +7,7 @@ Now add `textToSpeechDictionary.txt` to your `/Users/<username>/Documents` folde
 ## Usage ##
 
 Select text from any application and right click and press `Services > Custom Text To Speech`. 
+
 *(Note: If you only have three or less services on your machine simply right click and press `Custom Text To Speech`)*
 
 The `textToSpeechDictionary.txt` is a dictionary with colon seperated values. When the script runs into any string on the left, it converts that string to the one on the right.
