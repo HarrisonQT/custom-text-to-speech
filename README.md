@@ -19,6 +19,12 @@ You can also use [Absolute OS X embedded speech commands link](https://developer
 
 This changes the `mkdir` into `make directory` for a more understandable listening experience.
 
+## Example Text ##
+Try using Custom Text To Speech on these lines:
+```
+for(int i = 0; i < 10; i++ )
+  std::cout << i << std::endl
+```
 
 
  
