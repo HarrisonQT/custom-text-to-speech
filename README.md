@@ -10,7 +10,7 @@ Select text from any application and right click and press `Services > Custom Te
 
 The `textToSpeechDictionary.txt` is a dictionary with colon seperated values. When the script runs into any string on the left, it converts that string to the one on the right.
 
-*(Note: If you only have three or less services on your machine simply right click and press Custom Text To Speech)*
+*(Note: If you only have three or less services on your machine simply right click and press `Custom Text To Speech`)*
 ## Dictionary Examples ##
 `mkdir:make directory`
 
