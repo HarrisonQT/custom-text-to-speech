@@ -1,6 +1,6 @@
 # Installation #
 
-This repo contains an applescript that redefines character strings for OSX Text To Speech feature. To install create an service, add the `Run AppleScript` action and paste the contents of `custom-text-to-speech.applescript` into the Automator action. Save the Automator Service as "Custom Text To Speech". Go to `System Preferences > Keyboard > Shortcuts > Services` and check `Custom Text To Speech` under the "text" category.
+This repo contains an applescript that redefines character strings for OSX Text To Speech feature. To install, open Automator, create an service, add the `Run AppleScript` action and paste the contents of `custom-text-to-speech.applescript` into the Automator action. Save the Automator Service as "Custom Text To Speech". Go to `System Preferences > Keyboard > Shortcuts > Services` and check `Custom Text To Speech` under the "text" category.
 
 Now add `textToSpeechDictionary.txt` to your `/Users/<username>/Documents` folder and you should be good to go!
 
