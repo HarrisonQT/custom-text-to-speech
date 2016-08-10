@@ -9,6 +9,7 @@ Now add `textToSpeechDictionary.txt` to your `/Users/<username>/Documents` folde
 Select text from any application and right click and press `Services > Custom Text To Speech`. The `textToSpeechDictionary.txt` is a dictionary with colon seperated values. When the script runs into any string on the left, it converts that string to the one on the right.
 ## Dictionary Examples ##
 `mkdir:make directory`
+
 This changes the `mkdir` into `make directory` for a more understandable listening experience.
 
 
