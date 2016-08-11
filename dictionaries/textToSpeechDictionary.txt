@@ -1,5 +1,5 @@
 mkdir:make directory
-sys:system
+ sys :system
 rmdir:remove directory
 dirent:directory entry
 ..:dot dot
@@ -25,3 +25,4 @@ opendir:open directory
 readdir:read directory
 closedir:close directory
 std:[[char LTRL]]std[[char NORM]] standard
+etc:et cetera
