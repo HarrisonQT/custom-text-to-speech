@@ -17,11 +17,16 @@ endl:end l
  src:source
  char :character
 #include:pound include
-cd :[[char LTRL]]cd[[char NORM]] change directory
-chdir:[[char LTRL]]ch[[char NORM]] dur  change directory
-pwd:[[char LTRL]]pwd[[char NORM]] print working directory
+cd :c d change directory
+chdir:c h dur  change directory
+pwd:p w d print working directory
 opendir:open directory
 readdir:read directory
 closedir:close directory
-std:[[char LTRL]]std[[char NORM]] standard
+std: s t d standard
 etc:et cetera
+/:slash
+$:
+(rw):read and write [[slnc 300]]
+ext :extend
+CD-ROM:c d rom
