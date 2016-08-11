@@ -12,7 +12,7 @@ Select text from any application and right click and press `Services > Custom Te
 
 The `textToSpeechDictionary.txt` is a dictionary with colon seperated values. When the script runs into any string on the left, it converts that string to the one on the right.
 
-You can also use [Absolute OS X embedded speech commands link](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/SpeechSynthesisProgrammingGuide/FineTuning/FineTuning.html#//apple_ref/doc/uid/TP40004365-CH5-SW11) in your redefinitions. 
+You can also use [OS X embedded speech commands link](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/SpeechSynthesisProgrammingGuide/FineTuning/FineTuning.html#//apple_ref/doc/uid/TP40004365-CH5-SW11) in your redefinitions. 
 
 ## Dictionary Examples ##
 `mkdir:make directory`
