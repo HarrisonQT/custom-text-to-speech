@@ -26,7 +26,7 @@ for(int i = 0; i < 10; i++ )
   std::cout << i << std::endl
 ```
 
-## Future Updates ##
+## Coming Soon ##
 * Multiple dictionaries
-.* Programming langugues support (c++, java)
+  * Programming langugues support (c++, java)
 * Colon escape character
