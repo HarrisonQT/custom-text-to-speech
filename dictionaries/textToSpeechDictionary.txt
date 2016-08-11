@@ -2,14 +2,16 @@ mkdir:make directory
 sys:system
 rmdir:remove directory
 dirent:directory entry
- .. :dot dot
+..:dot dot
  . :dot
- rm :r m
+  rm :r m
 const:constant
+for(:for each
 for( :for each
 cout:c out
 endl:end l
  int :integer
+ i :[[char LTRL]]i[[char NORM]]
  a :[[char LTRL]]a[[char NORM]]
  < :less than
  > :greater than
@@ -22,3 +24,4 @@ pwd:[[char LTRL]]pwd[[char NORM]] print working directory
 opendir:open directory
 readdir:read directory
 closedir:close directory
+std:[[char LTRL]]std[[char NORM]] standard
