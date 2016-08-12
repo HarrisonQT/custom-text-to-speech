@@ -11,7 +11,7 @@ for( :for each
 cout:c out
 endl:end l
  int :integer
- i :[[char LTRL]]i[[char NORM]]
+ i :i
  < :less than
  > :greater than
  src:source
@@ -30,3 +30,4 @@ $:
 (rw):read and write [[slnc 300]]
 ext :extend
 CD-ROM:c d rom
+(\[)(.{1})(\]):sub \2:regex

@@ -1,4 +1,5 @@
 on run {input, parameters}
+	set input to "[1]"
 	killAllAutomatorProcesses()
 	set SPACE_PADDING to " "
 	set userName to short user name of (system info)
@@ -6,10 +7,11 @@ on run {input, parameters}
 	set dictionaryList to getDictionary(filePath)
 	repeat with entry in dictionaryList
 		set the input to replace_text(input as string, item 1 of entry, (SPACE_PADDING & item 2 of entry & SPACE_PADDING))
+		if ((count of entry) is equal to 3) and (item 3 of entry = "regex") then
+			set input to change item 1 of entry into item 2 of entry in input with regexp
+		end if
 	end repeat
-	
 	say input
-	
 end run
 
 on killAllAutomatorProcesses()
