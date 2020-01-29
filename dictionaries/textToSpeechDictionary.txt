@@ -1,68 +1,24 @@
-:[[rate 425]]
+:[[rate 225]]
 mkdir:make directory
-sys :system
-rmdir:remove directory
-dirent:directory entry
-..:dot dot
- . :dot
-  rm :r m
-const :constant
-for(:for each
-for( :for each
-cout:c out
-endl:end l
- int :integer
- i :i
  < :less than
  > :greater than
+std:standard
+cout:c out
+endl:end l
+sys :system
+rmdir:remove directory
+const :constant
  src:source
  char :character
  chars:characters
-#include:pound include
-cd :c d change directory
-chdir:c h dur  change directory
-pwd:p w d print working directory
-opendir:open directory
-readdir:read directory
-closedir:close directory
-std: s t d standard
 etc:et cetera
 /:slash
-$:
 (rw):read and write [[slnc 300]]
 ext :extend
 CD-ROM:c d rom
 .py:dot python
-\n: . 
-fcntl: fcntl manipulate file descriptor
-O_NDELAY: O_NDELAY open for reading no delay
-- :
-printheader:1print header
- C# :C sharp
-C# :C sharp
-C#'s:C sharp's
-  ve-minute : five minute
-C#’s:C sharp's
-  ve minutes: five minutes
-F# : F sharp
 [] : open and close bracket
  => : right arrow
  =/= : not equals
-supertrap: super trap
- m : mew
- e :
-speci c: specific
-  ve : five
-suf cient: sufficient 
-de ned: defined
-  rst :first
-Uber’s:ubers
-Excerpt From: 
-Nancy Clark's Sports Nutrition Guidebook, Fifth Edition.:
-Clark, Nancy.:
-iBooks:
 NoSQL: No s q l 
 MySQL: My s q l
-fileprivate: file private
-
-(\[)(.{1})(\]):sub [[char LTRL]]\2 [[char NORM]]:regex
